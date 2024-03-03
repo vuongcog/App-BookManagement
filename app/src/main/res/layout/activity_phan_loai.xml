@@ -1,0 +1,33 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhanLoaiActivity"
+    android:orientation="vertical"
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarphanloai"
+        app:title="Quản lý "
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary" />
+       <ImageButton
+           android:background="#ff7a01"
+           android:id="@+id/btnThemPL_PhanLoai"
+           android:src="@drawable/baseline_add_24"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+       </ImageButton>
+       <androidx.core.widget.NestedScrollView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <LinearLayout
+               android:orientation="vertical"
+               android:layout_width="match_parent"
+               android:id="@+id/linearlayout"
+               android:layout_height="wrap_content">
+           </LinearLayout>
+       </androidx.core.widget.NestedScrollView>
+</LinearLayout>

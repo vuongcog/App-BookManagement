@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TranslateApp</string>
+    <string name="hello_wordl">Hello world</string>
+    <string name="transltae">This text should be translated</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title">Book management</string>
+    <string name="picture">Picture</string>
+    <string name="idBook">Id book</string>
+    <string name="nameBook">Name book</string>
+    <string name="typeBook">Type book</string>
+    <string name="author">Author</string>
+    <string name="producer">Producer</string>
+    <string name="idtype">Id type</string>
+    <string name="classify">Classification of books</string>
+    <string name="detail">Detail</string>
+    <string name="save">Save</string>
+</resources>

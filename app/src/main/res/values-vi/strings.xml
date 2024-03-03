@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslateApp</string>
+    <string name="hello_wordl">Xin chào thế giới</string>
+    <string name="transltae">Đây là phần mềm dịch tiếng </string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="title">Quản lý sách</string>
+    <string name="picture">Chọn ảnh</string>
+    <string name="idBook">Mã sách</string>
+    <string name="nameBook">Tên sách</string>
+    <string name="typeBook">Loại sách</string>
+    <string name="author">Tác giả</string>
+    <string name="producer">Nhà SX</string>
+    <string name="idtype">Mã loại</string>
+    <string name="classify">Phân loại sách</string>
+    <string name="detail">Chi tiết</string>
+    <string name="save">Lưu thay đổi</string>
+
+</resources>

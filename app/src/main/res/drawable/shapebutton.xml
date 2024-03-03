@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="10dp" /> <!-- Điều này đặt bán kính của góc bo tròn là 20dp, bạn có thể thay đổi giá trị này theo ý muốn -->
+    <solid android:color="#ff7a01" /> <!-- Màu nền của button -->
+
+</shape>
